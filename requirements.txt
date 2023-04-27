@@ -2,6 +2,6 @@ pandas
 numpy
 torchvision
 streamlit
-sqlite3
 hashlib
 bcrypt
+transformers
