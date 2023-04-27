@@ -3,3 +3,6 @@ numpy==1.21.5
 torchvision==0.14.1
 transformers==4.28.1
 streamlit==1.21.0
+sqlite3
+hashlib
+bcrypt
