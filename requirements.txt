@@ -3,5 +3,4 @@ numpy
 torchvision
 streamlit
 bcrypt
-hashlib==20081119
 transformers
