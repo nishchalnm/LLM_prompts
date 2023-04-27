@@ -1,7 +1,6 @@
 pandas
 numpy
 torchvision
-transformers
 streamlit
 sqlite3
 hashlib
