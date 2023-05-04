@@ -4,3 +4,6 @@
 **pages/sign_up** - provides a sign up interface.  
 **pages/paraphrase** - module to get the phrases from the pretrained model.  
 **pytorch_model.bin** - model weights  
+
+
+App is deployed over huggingface spaces!
