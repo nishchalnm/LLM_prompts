@@ -7,3 +7,5 @@
 
 
 App is deployed over huggingface spaces!
+
+#### Chaeckout the app for yourself and optimize your LLM experience: https://vichitrak-paraphrase.hf.space/
